@@ -1,0 +1,584 @@
+National
+Anniston-Oxford-Jacksonville, AL
+Auburn-Opelika, AL
+Birmingham-Hoover, AL
+Daphne-Fairhope-Foley, AL
+Decatur, AL
+Dothan, AL
+Florence-Muscle Shoals, AL
+Gadsden, AL
+Huntsville, AL
+Mobile, AL
+Montgomery, AL
+Tuscaloosa, AL
+Alabama
+Northwest Alabama nonmetropolitan area
+Northeast Alabama nonmetropolitan area
+Southwest Alabama nonmetropolitan area
+Southeast Alabama nonmetropolitan area
+Anchorage, AK
+Fairbanks, AK
+Alaska
+Alaska nonmetropolitan area
+Flagstaff, AZ
+Lake Havasu City-Kingman, AZ
+Phoenix-Mesa-Scottsdale, AZ
+Prescott, AZ
+Sierra Vista-Douglas, AZ
+Tucson, AZ
+Yuma, AZ
+Arizona
+Arizona nonmetropolitan area
+Fayetteville-Springdale-Rogers, AR-MO
+Fort Smith, AR-OK
+Hot Springs, AR
+Jonesboro, AR
+Little Rock-North Little Rock-Conway, AR
+Pine Bluff, AR
+Arkansas
+North Arkansas nonmetropolitan area
+East Arkansas nonmetropolitan area
+West Arkansas nonmetropolitan area
+South Arkansas nonmetropolitan area
+Bakersfield, CA
+Chico, CA
+El Centro, CA
+Fresno, CA
+Hanford-Corcoran, CA
+Los Angeles-Long Beach-Anaheim, CA
+Madera, CA
+Merced, CA
+Modesto, CA
+Napa, CA
+Oxnard-Thousand Oaks-Ventura, CA
+Redding, CA
+Riverside-San Bernardino-Ontario, CA
+Sacramento--Roseville--Arden-Arcade, CA
+Salinas, CA
+San Diego-Carlsbad, CA
+San Francisco-Oakland-Hayward, CA
+San Jose-Sunnyvale-Santa Clara, CA
+San Luis Obispo-Paso Robles-Arroyo Grande, CA
+Santa Cruz-Watsonville, CA
+Santa Maria-Santa Barbara, CA
+Santa Rosa, CA
+Stockton-Lodi, CA
+Vallejo-Fairfield, CA
+Visalia-Porterville, CA
+Yuba City, CA
+California
+North Coast Region of California nonmetropolitan area
+Eastern Sierra-Mother Lode Region of California nonmetropolitan area
+North Valley-Northern Mountains Region of California nonmetropolitan area
+Boulder, CO
+Colorado Springs, CO
+Denver-Aurora-Lakewood, CO
+Fort Collins, CO
+Grand Junction, CO
+Greeley, CO
+Pueblo, CO
+Colorado
+Eastern and Southern Colorado nonmetropolitan area
+Southwest Colorado nonmetropolitan area
+Northwest Colorado nonmetropolitan area
+Bridgeport-Stamford-Norwalk, CT
+Danbury, CT
+Hartford-West Hartford-East Hartford, CT
+New Haven, CT
+Norwich-New London-Westerly, CT-RI
+Waterbury, CT
+Connecticut
+Connecticut nonmetropolitan area
+Dover, DE
+Delaware
+Washington-Arlington-Alexandria, DC-VA-MD-WV
+District of Columbia
+Cape Coral-Fort Myers, FL
+Crestview-Fort Walton Beach-Destin, FL
+Deltona-Daytona Beach-Ormond Beach, FL
+Gainesville, FL
+Homosassa Springs, FL
+Jacksonville, FL
+Lakeland-Winter Haven, FL
+Miami-Fort Lauderdale-West Palm Beach, FL
+Naples-Immokalee-Marco Island, FL
+North Port-Sarasota-Bradenton, FL
+Ocala, FL
+Orlando-Kissimmee-Sanford, FL
+Palm Bay-Melbourne-Titusville, FL
+Panama City, FL
+Pensacola-Ferry Pass-Brent, FL
+Port St. Lucie, FL
+Punta Gorda, FL
+Sebastian-Vero Beach, FL
+Sebring, FL
+Tallahassee, FL
+Tampa-St. Petersburg-Clearwater, FL
+The Villages, FL
+Florida
+South Florida nonmetropolitan area
+North Florida nonmetropolitan area
+Albany, GA
+Athens-Clarke County, GA
+Atlanta-Sandy Springs-Roswell, GA
+Augusta-Richmond County, GA-SC
+Brunswick, GA
+Columbus, GA-AL
+Dalton, GA
+Gainesville, GA
+Hinesville, GA
+Macon, GA
+Rome, GA
+Savannah, GA
+Valdosta, GA
+Warner Robins, GA
+Georgia
+North Georgia nonmetropolitan area
+Middle Georgia nonmetropolitan area
+East Georgia nonmetropolitan area
+South Georgia nonmetropolitan area
+Kahului-Wailuku-Lahaina, HI
+Urban Honolulu, HI
+Hawaii
+Hawaii / Kauai nonmetropolitan area
+Boise City, ID
+Coeur d'Alene, ID
+Idaho Falls, ID
+Lewiston, ID-WA
+Pocatello, ID
+Idaho
+Northwestern Idaho nonmetropolitan area
+Southeast-Central Idaho nonmetropolitan area
+Bloomington, IL
+Carbondale-Marion, IL
+Champaign-Urbana, IL
+Chicago-Naperville-Elgin, IL-IN-WI
+Danville, IL
+Decatur, IL
+Kankakee, IL
+Peoria, IL
+Rockford, IL
+Springfield, IL
+Illinois
+Northwest Illinois nonmetropolitan area
+West Central Illinois nonmetropolitan area
+East Central Illinois nonmetropolitan area
+South Illinois nonmetropolitan area
+Bloomington, IN
+Columbus, IN
+Elkhart-Goshen, IN
+Evansville, IN-KY
+Fort Wayne, IN
+Indianapolis-Carmel-Anderson, IN
+Kokomo, IN
+Lafayette-West Lafayette, IN
+Michigan City-La Porte, IN
+Muncie, IN
+South Bend-Mishawaka, IN-MI
+Terre Haute, IN
+Indiana
+Northern Indiana nonmetropolitan area
+Central Indiana nonmetropolitan area
+Southern Indiana nonmetropolitan area
+Ames, IA
+Cedar Rapids, IA
+Davenport-Moline-Rock Island, IA-IL
+Des Moines-West Des Moines, IA
+Dubuque, IA
+Iowa City, IA
+Sioux City, IA-NE-SD
+Waterloo-Cedar Falls, IA
+Iowa
+Northeast Iowa nonmetropolitan area
+Northwest Iowa nonmetropolitan area
+Southwest Iowa nonmetropolitan area
+Southeast Iowa nonmetropolitan area
+Lawrence, KS
+Manhattan, KS
+Topeka, KS
+Wichita, KS
+Kansas
+Kansas nonmetropolitan area
+Bowling Green, KY
+Elizabethtown-Fort Knox, KY
+Lexington-Fayette, KY
+Louisville/Jefferson County, KY-IN
+Owensboro, KY
+Kentucky
+West Kentucky nonmetropolitan area
+South Central Kentucky nonmetropolitan area
+Central Kentucky nonmetropolitan area
+East Kentucky nonmetropolitan area
+Alexandria, LA
+Baton Rouge, LA
+Hammond, LA
+Houma-Thibodaux, LA
+Lafayette, LA
+Lake Charles, LA
+Monroe, LA
+New Orleans-Metairie, LA
+Shreveport-Bossier City, LA
+Louisiana
+Central Louisiana nonmetropolitan area
+Northeast Louisiana nonmetropolitan area
+Southwest Louisiana nonmetropolitan area
+Bangor, ME
+Lewiston-Auburn, ME
+Portland-South Portland, ME
+Maine
+Northeast Maine nonmetropolitan area
+Southwest Maine nonmetropolitan area
+Baltimore-Columbia-Towson, MD
+California-Lexington Park, MD
+Cumberland, MD-WV
+Hagerstown-Martinsburg, MD-WV
+Salisbury, MD-DE
+Maryland
+Maryland nonmetropolitan area
+Barnstable Town, MA
+Boston-Cambridge-Nashua, MA-NH
+Leominster-Gardner, MA
+New Bedford, MA
+Pittsfield, MA
+Springfield, MA-CT
+Worcester, MA-CT
+Massachusetts
+Massachusetts nonmetropolitan area
+Ann Arbor, MI
+Battle Creek, MI
+Bay City, MI
+Detroit-Warren-Dearborn, MI
+Flint, MI
+Grand Rapids-Wyoming, MI
+Jackson, MI
+Kalamazoo-Portage, MI
+Lansing-East Lansing, MI
+Midland, MI
+Monroe, MI
+Muskegon, MI
+Niles-Benton Harbor, MI
+Saginaw, MI
+Michigan
+Upper Peninsula of Michigan nonmetropolitan area
+Northeast Lower Peninsula of Michigan nonmetropolitan area
+Northwest Lower Peninsula of Michigan nonmetropolitan area
+Balance of Lower Peninsula of Michigan nonmetropolitan area
+Duluth, MN-WI
+Mankato-North Mankato, MN
+Minneapolis-St. Paul-Bloomington, MN-WI
+Rochester, MN
+St. Cloud, MN
+Minnesota
+Northwest Minnesota nonmetropolitan area
+Northeast Minnesota nonmetropolitan area
+Southwest Minnesota nonmetropolitan area
+Southeast Minnesota nonmetropolitan area
+Gulfport-Biloxi-Pascagoula, MS
+Hattiesburg, MS
+Jackson, MS
+Mississippi
+Northeast Mississippi nonmetropolitan area
+Northwest Mississippi nonmetropolitan area
+Southeast Mississippi nonmetropolitan area
+Southwest Mississippi nonmetropolitan area
+Cape Girardeau, MO-IL
+Columbia, MO
+Jefferson City, MO
+Joplin, MO
+Kansas City, MO-KS
+St. Joseph, MO-KS
+St. Louis, MO-IL
+Springfield, MO
+Missouri
+Central Missouri nonmetropolitan area
+North Missouri nonmetropolitan area
+Southeast Missouri nonmetropolitan area
+Southwest Missouri nonmetropolitan area
+Billings, MT
+Great Falls, MT
+Missoula, MT
+Montana
+Southwest Montana nonmetropolitan area
+West Montana nonmetropolitan area
+East-Central Montana nonmetropolitan area
+Grand Island, NE
+Lincoln, NE
+Omaha-Council Bluffs, NE-IA
+Nebraska
+Northwest Nebraska nonmetropolitan area
+Northeast Nebraska nonmetropolitan area
+South Nebraska nonmetropolitan area
+Carson City, NV
+Las Vegas-Henderson-Paradise, NV
+Reno, NV
+Nevada
+Nevada nonmetropolitan area
+Dover-Durham, NH-ME
+Manchester, NH
+Portsmouth, NH-ME
+New Hampshire
+Northern New Hampshire nonmetropolitan area
+Central New Hampshire nonmetropolitan area
+West Central-Southwest New Hampshire nonmetropolitan area
+Atlantic City-Hammonton, NJ
+Ocean City, NJ
+Trenton, NJ
+Vineland-Bridgeton, NJ
+New Jersey
+Albuquerque, NM
+Farmington, NM
+Las Cruces, NM
+Santa Fe, NM
+New Mexico
+Northern New Mexico nonmetropolitan area
+Eastern New Mexico nonmetropolitan area
+Albany-Schenectady-Troy, NY
+Binghamton, NY
+Buffalo-Cheektowaga-Niagara Falls, NY
+Elmira, NY
+Glens Falls, NY
+Ithaca, NY
+Kingston, NY
+New York-Newark-Jersey City, NY-NJ-PA
+Rochester, NY
+Syracuse, NY
+Utica-Rome, NY
+Watertown-Fort Drum, NY
+New York
+Capital/Northern New York nonmetropolitan area
+Southwest New York nonmetropolitan area
+Central East New York nonmetropolitan area
+Asheville, NC
+Burlington, NC
+Charlotte-Concord-Gastonia, NC-SC
+Durham-Chapel Hill, NC
+Fayetteville, NC
+Goldsboro, NC
+Greensboro-High Point, NC
+Greenville, NC
+Hickory-Lenoir-Morganton, NC
+Jacksonville, NC
+New Bern, NC
+Raleigh, NC
+Rocky Mount, NC
+Wilmington, NC
+Winston-Salem, NC
+North Carolina
+Southeast Coastal North Carolina nonmetropolitan area
+Northeast Coastal North Carolina nonmetropolitan area
+Piedmont North Carolina nonmetropolitan area
+Mountain North Carolina nonmetropolitan area
+Bismarck, ND
+Fargo, ND-MN
+Grand Forks, ND-MN
+North Dakota
+West North Dakota nonmetropolitan area
+East North Dakota nonmetropolitan area
+Akron, OH
+Canton-Massillon, OH
+Cincinnati, OH-KY-IN
+Cleveland-Elyria, OH
+Columbus, OH
+Dayton, OH
+Lima, OH
+Mansfield, OH
+Springfield, OH
+Toledo, OH
+Youngstown-Warren-Boardman, OH-PA
+Ohio
+West Northwestern Ohio nonmetropolitan area
+North Northeastern Ohio nonmetropolitan area
+Eastern Ohio nonmetropolitan area
+Southern Ohio nonmetropolitan area
+Enid, OK
+Lawton, OK
+Oklahoma City, OK
+Tulsa, OK
+Oklahoma
+Northeast Oklahoma nonmetropolitan area
+Northwest Oklahoma nonmetropolitan area
+Southwest Oklahoma nonmetropolitan area
+Southeast Oklahoma nonmetropolitan area
+Albany, OR
+Bend-Redmond, OR
+Corvallis, OR
+Eugene, OR
+Grants Pass, OR
+Medford, OR
+Portland-Vancouver-Hillsboro, OR-WA
+Salem, OR
+Oregon
+Coast Oregon nonmetropolitan area
+Central Oregon nonmetropolitan area
+Eastern Oregon nonmetropolitan area
+Allentown-Bethlehem-Easton, PA-NJ
+Altoona, PA
+Bloomsburg-Berwick, PA
+Chambersburg-Waynesboro, PA
+East Stroudsburg, PA
+Erie, PA
+Gettysburg, PA
+Harrisburg-Carlisle, PA
+Johnstown, PA
+Lancaster, PA
+Lebanon, PA
+Philadelphia-Camden-Wilmington, PA-NJ-DE-MD
+Pittsburgh, PA
+Reading, PA
+Scranton--Wilkes-Barre--Hazleton, PA
+State College, PA
+Williamsport, PA
+York-Hanover, PA
+Pennsylvania
+Western Pennsylvania nonmetropolitan area
+Northern Pennsylvania nonmetropolitan area
+Southern Pennsylvania nonmetropolitan area
+Providence-Warwick, RI-MA
+Rhode Island
+Charleston-North Charleston, SC
+Columbia, SC
+Florence, SC
+Greenville-Anderson-Mauldin, SC
+Hilton Head Island-Bluffton-Beaufort, SC
+Myrtle Beach-Conway-North Myrtle Beach, SC-NC
+Spartanburg, SC
+Sumter, SC
+South Carolina
+Upper Savannah South Carolina nonmetropolitan area
+Lower Savannah South Carolina nonmetropolitan area
+Northeast South Carolina nonmetropolitan area
+Rapid City, SD
+Sioux Falls, SD
+South Dakota
+East South Dakota nonmetropolitan area
+West South Dakota nonmetropolitan area
+Chattanooga, TN-GA
+Clarksville, TN-KY
+Cleveland, TN
+Jackson, TN
+Johnson City, TN
+Kingsport-Bristol-Bristol, TN-VA
+Knoxville, TN
+Memphis, TN-MS-AR
+Morristown, TN
+Nashville-Davidson--Murfreesboro--Franklin, TN
+Tennessee
+West Tennessee nonmetropolitan area
+South Central Tennessee nonmetropolitan area
+North Central Tennessee nonmetropolitan area
+East Tennessee nonmetropolitan area
+Abilene, TX
+Amarillo, TX
+Austin-Round Rock, TX
+Beaumont-Port Arthur, TX
+Brownsville-Harlingen, TX
+College Station-Bryan, TX
+Corpus Christi, TX
+Dallas-Fort Worth-Arlington, TX
+El Paso, TX
+Houston-The Woodlands-Sugar Land, TX
+Killeen-Temple, TX
+Laredo, TX
+Longview, TX
+Lubbock, TX
+McAllen-Edinburg-Mission, TX
+Midland, TX
+Odessa, TX
+San Angelo, TX
+San Antonio-New Braunfels, TX
+Sherman-Denison, TX
+Texarkana, TX-AR
+Tyler, TX
+Victoria, TX
+Waco, TX
+Wichita Falls, TX
+Texas
+West Texas Region of Texas nonmetropolitan area
+North Texas Region of Texas nonmetropolitan area
+Big Thicket Region of Texas nonmetropolitan area
+Hill Country Region of Texas nonmetropolitan area
+Border Region of Texas nonmetropolitan area
+Coastal Plains Region of Texas nonmetropolitan area
+Logan, UT-ID
+Ogden-Clearfield, UT
+Provo-Orem, UT
+St. George, UT
+Salt Lake City, UT
+Utah
+Eastern Utah nonmetropolitan area
+Central Utah nonmetropolitan area
+Burlington-South Burlington, VT
+Vermont
+Southern Vermont nonmetropolitan area
+Northern Vermont nonmetropolitan area
+Blacksburg-Christiansburg-Radford, VA
+Charlottesville, VA
+Harrisonburg, VA
+Lynchburg, VA
+Richmond, VA
+Roanoke, VA
+Staunton-Waynesboro, VA
+Virginia Beach-Norfolk-Newport News, VA-NC
+Winchester, VA-WV
+Virginia
+Southwest Virginia nonmetropolitan area
+Southside Virginia nonmetropolitan area
+Northeast Virginia nonmetropolitan area
+Northwest Virginia nonmetropolitan area
+Bellingham, WA
+Bremerton-Silverdale, WA
+Kennewick-Richland, WA
+Longview, WA
+Mount Vernon-Anacortes, WA
+Olympia-Tumwater, WA
+Seattle-Tacoma-Bellevue, WA
+Spokane-Spokane Valley, WA
+Walla Walla, WA
+Wenatchee, WA
+Yakima, WA
+Washington
+Western Washington nonmetropolitan area
+Eastern Washington nonmetropolitan area
+Beckley, WV
+Charleston, WV
+Huntington-Ashland, WV-KY-OH
+Morgantown, WV
+Parkersburg-Vienna, WV
+Weirton-Steubenville, WV-OH
+Wheeling, WV-OH
+West Virginia
+Southern West Virginia nonmetropolitan area
+Northern West Virginia nonmetropolitan area
+Appleton, WI
+Eau Claire, WI
+Fond du Lac, WI
+Green Bay, WI
+Janesville-Beloit, WI
+La Crosse-Onalaska, WI-MN
+Madison, WI
+Milwaukee-Waukesha-West Allis, WI
+Oshkosh-Neenah, WI
+Racine, WI
+Sheboygan, WI
+Wausau, WI
+Wisconsin
+Northwestern Wisconsin nonmetropolitan area
+Northeastern Wisconsin nonmetropolitan area
+South Central Wisconsin nonmetropolitan area
+Western Wisconsin nonmetropolitan area
+Casper, WY
+Cheyenne, WY
+Wyoming
+Western Wyoming nonmetropolitan area
+Eastern Wyoming nonmetropolitan area
+Guam
+Aguadilla-Isabela, PR
+Arecibo, PR
+Guayama, PR
+Mayaguez, PR
+Ponce, PR
+San German, PR
+San Juan-Carolina-Caguas, PR
+Puerto Rico
+Puerto Rico nonmetropolitan area
+Virgin Islands
