@@ -1,11 +1,8 @@
-
 import java.util.*;
+import java.text.*;
 
 public class monthlyTotal {
-    // TODO: throw in the fee which is like 1%
-
     /**
-     *
      * @param interest_rate
      * @param loan_principal
      * @param months
@@ -16,13 +13,10 @@ public class monthlyTotal {
         double interest_total = (interest_fee * months)/12.0;
         loan_principal += interest_total;
 
-//        System.out.println(loan_principal);
-
         return calc_month(interest_rate, loan_principal, 10);
     }
 
     /**
-     *
      * @param interest_rate
      * @param loan_principal
      * @return monthly amount to be paid
@@ -67,28 +61,14 @@ public class monthlyTotal {
                 principal_[i] = s.nextDouble();
             }
 
-            if (userInput.equals("u")) { // Sees whether or not to call unsub or sub
+            if (userInput.equals("u") || userInput.equals("p")) { // Sees whether or not to call unsub or sub
                 toBeOrNotToBe = true;
 
-                for (int i = 0; i < numLoans; i++) {
-                    System.out.print("\nEnter start month for loan " + (i+1) + ": ");
-                    int start_month = s.nextInt();
+                System.out.print("\nEnter graduation month for all" + (userInput.equals("u") ? " federal unsubsidized loans: " : " private loans: "));
+                int grad_month = s.nextInt();
 
-                    System.out.print("\nEnter start year for loan " + (i+1) + ": ");
-                    int start_year = s.nextInt();
-
-                    System.out.print("\nEnter graduation month for loan " + (i+1) + ": ");
-                    int grad_month = s.nextInt();
-
-                    System.out.print("\nEnter graduation year for loan " + (i+1) + ": ");
-                    int grad_year = s.nextInt();
-
-                    months_[i] = ((grad_year - start_year)*12) + (grad_month - start_month)+ 6;
-                }
-
-            }
-            else if (userInput.equals("p")) { // Sees whether or not to call unsub or sub
-                toBeOrNotToBeToo = true;
+                System.out.print("\nEnter graduation year for all" + (userInput.equals("u") ? " federal unsubsidized loans: " : " private loans: "));
+                int grad_year = s.nextInt();
 
                 for (int i = 0; i < numLoans; i++) {
                     System.out.print("\nEnter start month for loan " + (i+1) + ": ");
@@ -97,41 +77,33 @@ public class monthlyTotal {
                     System.out.print("\nEnter start year for loan " + (i+1) + ": ");
                     int start_year = s.nextInt();
 
-                    System.out.print("\nEnter graduation month for loan " + (i+1) + ": ");
-                    int grad_month = s.nextInt();
+                    if (userInput.equals("p")) {
+                        System.out.print("\nEnter loan duration in years for loan " + (i+1) + ": ");
+                        payment_period= s.nextInt();
 
-                    System.out.print("\nEnter graduation year for loan " + (i+1) + ": ");
-                    int grad_year = s.nextInt();
+                        System.out.print("\nEnter grace period in months for loan " + (i+1) + ": ");
+                        int grace_period= s.nextInt();
 
-                    System.out.print("\nEnter loan duration" + (i+1) + ": ");
-                    payment_period= s.nextInt();
-
-                    System.out.print("\nEnter grace period" + (i+1) + ": ");
-                    int grace_period= s.nextInt();
-
-                    months_[i] = ((grad_year - start_year)*12) + (grad_month - start_month)+ grace_period;
+                        months_[i] = ((grad_year - start_year)*12) + (grad_month - start_month)+ grace_period;
+                    } else {
+                        months_[i] = ((grad_year - start_year)*12) + (grad_month - start_month)+ 6;
+                    }
                 }
 
             }
 
-            double sum = 0;
             if (toBeOrNotToBe) {
                 for (int i = 0; i < numLoans; i++) {
                     total_month += calc_unsub(rates_[i], principal_[i], months_[i]);
                 }
-//                System.out.print("\n" + sum);
-            }
-            else if (toBeOrNotToBeToo) {
+            } else if (toBeOrNotToBeToo) {
                 for (int i = 0; i < numLoans; i++) {
                     total_month += calc_month(rates_[i], principal_[i], months_[i]);
                 }
-//                System.out.print("\n" + sum);
-            }
-            else {
+            } else {
                 for (int i = 0; i < numLoans; i++) {
                     total_month += calc_month(rates_[i], principal_[i],payment_period);
                 }
-//                System.out.print("\n" + sum);
             }
 
             System.out.print("\nDo you have another loan? Enter y for yes and n for no: ");
@@ -144,6 +116,8 @@ public class monthlyTotal {
                 loop = false;
             }
         }
-        System.out.print("\n" + total_month);
+
+        NumberFormat fmt = new DecimalFormat("#0.00");
+        System.out.print("\n" + fmt.format(total_month));
     }
 }
