@@ -6,7 +6,6 @@
 package codefest2019;
 
 import java.io.BufferedReader;
-import java.lang.Integer;
 /**
  *
  * @author Matthew
