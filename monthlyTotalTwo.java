@@ -27,8 +27,7 @@ public class monthlyTotalTwo {
                 (month_rate*(java.lang.Math.pow((month_rate+1), payment_period*12))));
     }
 
-
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception{
 
         double total_month = 0;
 
@@ -106,6 +105,16 @@ public class monthlyTotalTwo {
         }
 
         NumberFormat fmt = new DecimalFormat("#0.00");
-        System.out.print("\n" + fmt.format(total_month));
+        System.out.println("\nThis is the total amount that is to be paid monthly: " + fmt.format(total_month));
+
+
+        int sal = GetSalary.getSalary();
+
+        System.out.println("$" + sal);
+
+        double percentage = (total_month/(((double)sal)/12.0))*100;
+        System.out.println("Precentage of monthly income dedicated towards loans: " +fmt.format(percentage)+"%");
+
+
     }
 }
