@@ -8,4 +8,4 @@ taking out is high-risk or not.
 
 Completed in 24 hours for the Philly Codefest 2019 which was held at Drexel University.
 
-Received an hoborable mention from Vanguard.
+Received an honorable mention from Vanguard.
